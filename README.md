@@ -5,3 +5,4 @@ Yo new changes
 Some other changes by Connor Dixon
 Luke Morrissey
 Connor Dixon changes within a branch
+Connor Dixon changed within GitHub itself
